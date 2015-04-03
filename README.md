@@ -16,6 +16,10 @@ Archived scripts used to enrich metadata on CDS during CERN Summer Program 2014
 * **doc/** : `tox.xml` -  Sample marcXML generated for TOC
 * **doc/** : `multipleVolumeTOC.xml` -  Sample marcXML generated for TOC with multiple volumes
 
+## Disclaimer
+These scripts are supposed to be executed in a serial order. Feel free to contact me in case of queries.
+
+
   
 
 
